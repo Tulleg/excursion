@@ -1,16 +1,28 @@
 body {
     background-color: black;
     text-align: center;
-}
-header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
-    font-weight: normal;
     color: white;
     
+}
+header {
+    font-size: 50px;
+    font-weight: normal;
 }
 a {
     color:aquamarine;
     font-size: 16px;
 
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+#copyright {
+    text-align: right;
+    
 }
